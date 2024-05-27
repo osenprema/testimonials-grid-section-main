@@ -16,7 +16,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### What I learned
 
-Improving my CSS skills.
+Improving my CSS Grid skills.
 
 ## Author
 
